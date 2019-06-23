@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warcaby", "Warcaby\Warcaby.csproj", "{99AB9625-72BF-4524-A478-50C012F163CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodyTest", "MetodyTest\MetodyTest.csproj", "{913A06E4-0CE9-48E8-B064-B8AAF1885BE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99AB9625-72BF-4524-A478-50C012F163CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AB9625-72BF-4524-A478-50C012F163CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AB9625-72BF-4524-A478-50C012F163CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AB9625-72BF-4524-A478-50C012F163CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{913A06E4-0CE9-48E8-B064-B8AAF1885BE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913A06E4-0CE9-48E8-B064-B8AAF1885BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913A06E4-0CE9-48E8-B064-B8AAF1885BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913A06E4-0CE9-48E8-B064-B8AAF1885BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CAF49A9-28C0-446F-A765-59BF9C6FAACE}
+	EndGlobalSection
+EndGlobal
